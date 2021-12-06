@@ -1,0 +1,11 @@
+DECLARE variables for currentPlayer, character, winState, moves
+DECLARE constants for playerOne, playerTwo
+
+REFERENCE gameBoard, resetButton, 
+
+ATTACH event listener to gameBoard (handleClick)
+
+What happens when a click is registered on gameBoard
+- ADD player icon
+- Check if winner
+- Switch to next turn
