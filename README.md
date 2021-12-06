@@ -32,3 +32,6 @@ A browser based game of tic tac toe coded with JS, HTML, and CSS
 
 - As a player, I want instructions
 - As a player, I want a score tracker
+
+### Wireframe
+![Wireframe](images/TicTacToeWireframes.png)
